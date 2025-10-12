@@ -4,20 +4,11 @@ MacOS:
 
 brew install git-lfs
 
-## initiate:
+- initiate: git lfs install
 
-git lfs install
+- track: git lfs track "*.zip"
 
-## track:
+- after running track command, this line will appear in .gitattributes "df_trimmed.csv.zip filter=lfs diff=lfs merge=lfs -text"
+    - git add .gitattributes, commit, push
 
-git lfs track "*.zip"
-
-after running track command, this line will appear in .gitattributes "df_trimmed.csv.zip filter=lfs diff=lfs merge=lfs -text"
-
-## add, commit, push
-
-git add .gitattributes
-
-git commit -m ""
-
-git push
+- Once .gitattributes is pushed, then push the large file itself
