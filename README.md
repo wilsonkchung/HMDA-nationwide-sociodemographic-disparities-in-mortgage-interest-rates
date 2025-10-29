@@ -1,3 +1,3 @@
-# hmda-mortgage-rates-sociodemographic-disparities-analysis
+# HMDA_nationwide_sociodemographic_disparities_in_mortgage_interest_rates
 
 Nationwide Sociodemographic Disparities in Mortgage Interest Rates Among Financially Similar Applicants
