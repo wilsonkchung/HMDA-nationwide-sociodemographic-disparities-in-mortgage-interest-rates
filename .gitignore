@@ -1,7 +1,7 @@
 .DS_Store
 
-dataset.csv
-df_trimmed.csv
+raw_dataset_fromStep0.csv
+trimmed_dataset_fromStep1.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
