@@ -1,7 +1,12 @@
 .DS_Store
 
+
 raw_dataset_fromStep0.csv
+
 trimmed_dataset_fromStep1.csv
+
+selected_features_dataset_fromStep2.csv
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
