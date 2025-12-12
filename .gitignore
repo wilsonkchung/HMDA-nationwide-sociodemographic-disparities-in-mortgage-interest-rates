@@ -1,5 +1,6 @@
 .DS_Store
 
+dataset.csv
 df_trimmed.csv
 
 # Byte-compiled / optimized / DLL files
