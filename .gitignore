@@ -1,11 +1,16 @@
 .DS_Store
 
-
+# Step1
 raw_dataset_fromStep0.csv
 
+# Step2
 trimmed_dataset_fromStep1.csv
 
+# Step3
 selected_features_dataset_fromStep2.csv
+
+# Step4
+ready_dataset_fromStep3.csv
 
 
 # Byte-compiled / optimized / DLL files
